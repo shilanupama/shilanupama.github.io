@@ -1,0 +1,49 @@
+.thick-color-border{
+    border-color: black;
+    border-style: blue;
+    border-width: thick;
+    border-radius: 50%
+}
+
+h1{   
+    text-shadow: 3px 3px 3px blue;
+    font-family: 'Bubblegum Sans', cursive;
+    font-size:80;
+    text-align: center;
+}
+
+h2{
+    line-height: 3;
+    letter-spacing: 4px;
+    font-size: auto;
+    text-align: center;
+    font-family: 'Salsa', cursive;
+}
+
+h3{
+    line-height: 1;
+    text-align: center;
+    font-family: 'Salsa', cursive;
+}
+
+p{
+    font-family: 'Salsa', cursive;
+}
+
+img {
+    display: block;
+    margin:  auto;
+}
+
+body {
+    width: 500px;
+    margin: 0 auto;
+    background-color: #ADD8E6;
+    padding: 0 20px 20px 20px;
+    border: 9px solid #5c00e6;
+}
+html{
+    width: 800px;
+    margin: 0 auto;
+    background-color: #8FBC8F;
+}
