@@ -1,0 +1,40 @@
+html {
+font-family: 'Rancho', cursive;}
+
+p,li,h1{
+	color: green;
+}
+p {
+  color: red;
+  width: 500px;
+
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+html {
+  background-color: #ffcccc;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #ccccff;
+  padding: 0 25px 25px 25px;
+  border: 5px solid black;
+}
+img{
+	display: block;
+	margin: 0 auto
+}
+.small-image {
+	width: 200px;
+	height: 300px;
+}
+	
